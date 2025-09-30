@@ -1,0 +1,32 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Clean Anoma theme */
+:root {
+  --anoma-black: #000000;
+  --anoma-white: #ffffff;
+  --anoma-red: #ef4444;
+  --anoma-gray-900: #111827;
+  --anoma-gray-800: #1f2937;
+  --anoma-gray-700: #374151;
+  --anoma-gray-600: #4b5563;
+  --anoma-gray-500: #6b7280;
+  --anoma-gray-400: #9ca3af;
+  --anoma-gray-300: #d1d5db;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
