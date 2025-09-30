@@ -35,3 +35,6 @@ All functionality is mocked but uses realistic data and UX flows.
 - React + TypeScript + Vite
 - Tailwind CSS
 - Mock pricing from "real" rates
+
+<img width="1402" height="950" alt="image" src="https://github.com/user-attachments/assets/e1587232-df7f-4fb4-a71c-9a92752cdc57" />
+
